@@ -3,7 +3,7 @@
 Pod::Spec.new do |s|
 s.name         = "MarnView"
 #s.module_name  = "MarnView"
-s.version      = "1.0"
+s.version      = "1.1"
 s.summary      = "TouchId/FaceId manager on iOS 8 or later."
 s.description  = "An easy way to use TouchId or FaceId, support iOS 8 or later"
 s.homepage     = "https://github.com/gityuency/MarnView"
